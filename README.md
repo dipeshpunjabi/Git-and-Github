@@ -1,8 +1,5 @@
-# Jedi Test Project
 
-This repository is designed for practicing various Git commands and scenarios. Below are the detailed steps and commands used during the practice sessions.
-
-## Git Commands and Scenarios
+## Git Commands 
 
 ### Branch Management
 
